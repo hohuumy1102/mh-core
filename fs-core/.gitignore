@@ -1,0 +1,6 @@
+/vendor/*
+/tmp/*
+/logs/*
+/webroot/uploads/*
+/nbproject/*
+/.idea/*

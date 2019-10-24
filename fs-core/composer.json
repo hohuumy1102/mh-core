@@ -1,0 +1,7 @@
+{
+    "name": "fs-core",
+    "description": "FindSoft Core",
+    "homepage": "http://cakephp.org",
+    "type": "project",
+    "license": "MIT",
+}
